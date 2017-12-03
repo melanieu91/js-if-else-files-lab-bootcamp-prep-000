@@ -5,7 +5,7 @@ if(name === "Susan") {
 }  else {
   console.log("Expected the name to be Susan")
   console.log("Received the name to be Joe")
-  
+ 
 }
 
 // Don't worry about this
